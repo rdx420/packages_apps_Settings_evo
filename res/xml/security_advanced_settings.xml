@@ -77,6 +77,15 @@
             android:targetClass="com.android.settings.Settings$IccLockSettingsActivity" />
 
     </Preference>
+    
+    <ListPreference
+            android:order="110"
+            android:key="deny_new_usb"
+            android:title="@string/deny_new_usb_title"
+            android:summary="@string/deny_new_usb_summary"
+            android:persistent="false"
+            android:entries="@array/deny_new_usb_entries"
+            android:entryValues="@array/deny_new_usb_values" />
 
     <Preference
         android:order="60"
