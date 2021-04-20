@@ -112,6 +112,7 @@ android_library {
         "vendor.lineage.fastcharge-V1.0-java",
         "faceunlock_framework",
         "google-securityhub",
+        "androidx.dynamicanimation_dynamicanimation",
     ],
 
     libs: [
