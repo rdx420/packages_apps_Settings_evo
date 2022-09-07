@@ -483,4 +483,9 @@
     <string name="model_summary">Model, phone number, IMEI, etc</string>
     <string name="model_name">Device status</string>
     <string name="legal_summary">Licenses and legal</string>
+    
+    <!-- Battery stats -->
+    <string name="battery_stat_temp">Temperature</string>
+    <string name="battery_stat_capacity">Capacity</string>
+    <string name="battery_stat_cycle">Cycle</string>
 </resources>
